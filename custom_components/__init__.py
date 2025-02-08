@@ -1,0 +1,1 @@
+"""The signumportfolio component."""
