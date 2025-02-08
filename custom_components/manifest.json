@@ -5,6 +5,6 @@
   "documentation": "https://github.com/tomlac40/signumportfolio,
   "dependencies": [],
   "codeowners": ["@tomlac40"],
-  "issue_tracker": "https://github.com/tomlac40/signumportfolio/issues"
+  "issue_tracker": "https://github.com/tomlac40/signumportfolio/issues",
   "requirements": []
 }
